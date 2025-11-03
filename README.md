@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# My Favorite Series: *The Walking Dead**
+# My Favorite Series: *The Walking Dead*
 
 I absolutely love **The Walking Dead**. It's a story about zombie apocalypse. Here are some reasons why I think it's amazing:
 
